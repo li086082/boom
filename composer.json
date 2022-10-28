@@ -1,0 +1,15 @@
+{
+    "name": "bruce/boom",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "bruce",
+            "email": "798086082@qq.com"
+        }
+    ],
+    "require": {}
+}
