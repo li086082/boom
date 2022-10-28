@@ -1,5 +1,5 @@
 {
-    "name": "bruce/boom",
+    "name": "lijiaxin/boom",
     "autoload": {
         "psr-4": {
             "src\\": "src"
@@ -7,7 +7,7 @@
     },
     "authors": [
         {
-            "name": "bruce",
+            "name": "lijiaxin",
             "email": "798086082@qq.com"
         }
     ],
