@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace src;
+namespace boom;
 
 /**
  * 随机函数
